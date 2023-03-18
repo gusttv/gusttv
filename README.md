@@ -9,7 +9,7 @@ class WebDeveloper {
             Frameworks: ["ExpressJS","..."],
             Database: ["MySQL", "MongoDB"]
         },
-        this.currentLearning = "ReactJS"
+        this.currentLearning = "Typescript"
     }
 
     hi(){
