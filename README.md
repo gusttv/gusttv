@@ -5,11 +5,11 @@ class WebDeveloper {
     constructor(){
         this.name = "Gustavo"
         this.skills = {
-            Langs: ["Javascript", "Python"],
+            Langs: ["Javascript", "Typescript", "Python"],
             Frameworks: ["ExpressJS", "Fastify"],
             Database: ["MySQL", "PostgresSQL", "MongoDB"]
         },
-        this.currentLearning = "Typescript"
+        this.currentLearning = "Java"
     }
 
     hi(){
