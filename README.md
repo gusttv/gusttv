@@ -6,10 +6,9 @@ class WebDeveloper {
         this.name = "Gustavo"
         this.skills = {
             Langs: ["Javascript", "Typescript", "Python", "Java"],
-            Frameworks: ["ExpressJS", "Fastify"],
+            Frameworks: ["ExpressJS", "Fastify", "SpringBoot"],
             Database: ["MySQL", "PostgresSQL", "MongoDB"]
         },
-        this.currentLearning = "Spring Boot"
     }
 
     hi(){
